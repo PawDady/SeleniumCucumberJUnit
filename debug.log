@@ -1,0 +1,4 @@
+[0218/224012.540:ERROR:process_reader_win.cc(142)] SuspendThread: Odmowa dostêpu. (0x5)
+[0218/224012.540:ERROR:exception_snapshot_win.cc(87)] thread ID 1256 not found in process
+[0218/224012.540:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0218/224012.540:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
